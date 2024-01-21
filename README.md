@@ -1,4 +1,13 @@
 # Менеджер задач / To Do manager
+### ВАЖНО!
+Я компилирую через Pyinstaller, поэтому антивирусы могут ругаться на файл, считая его трояном, но это не так. Такая проблема происходит из-за того, что я использую Pyinstaller. Я бы использовал Cython, но по непонятным мне причинам он не работает. К тому же антивирусы, которые срабатывают, не вызывают у меня доверия, а именно Avast, остальные (Cynet и AVG) мне неизвестны.
+**Я не пишу зловреды**, можете удостовериться в этом, посмотрев исходный код.
+
+### IMPORTANT
+I compile using Pyinstaller and this is reason why antiviruses may define my program as malware, but this isn't true. This problem occurs because i use Pyinstaller. I would use Cython, but for not understandable reasons it doesn't work on my PC. Also antiviruses that define my app as malware don't seem to be good, imho, such as Avast. I don't know others like Cynet and AVG.
+**I don't write malware**, you can check it if you look into source code.
+
+
 
 🇷🇺
 Мой первый проект.
